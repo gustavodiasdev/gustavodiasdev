@@ -1,7 +1,3 @@
-Claro! Aqui está o README atualizado com emojis nos títulos:
-
----
-
 # Olá, sou Gustavo Dias 👋
 
 ## Sobre Mim 🌟
