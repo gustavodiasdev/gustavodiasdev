@@ -37,7 +37,7 @@ Observar o crescimento de pessoas e soluções ao meu redor me traz profunda sat
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavodiasdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavodiasdev&show_icons=true&hide_border=true&theme=github_dark" alt="Estatísticas do GitHub">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodiasdev&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Linguagens mais usadas">
 </p>
 
