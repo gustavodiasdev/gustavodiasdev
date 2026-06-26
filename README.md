@@ -1,28 +1,28 @@
-<h1 align="center">Olá, sou o Gustavo Dias 👋</h1>
+<h1 align="center">Gustavo Dias</h1>
 
 <p align="center">
-  <b>Software Engineer · Full Stack</b> — back-end, front-end e toda a esteira.
+  Software Engineer · Full Stack — back-end, front-end e toda a esteira.
 </p>
 
 <p align="center">
   <a href="https://gustavodias.dev"><img src="https://img.shields.io/badge/Currículo-gustavodias.dev-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Currículo"></a>
-  <a href="mailto:contato@gustavodias.dev"><img src="https://img.shields.io/badge/E--mail-contato@gustavodias.dev-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <img src="https://img.shields.io/badge/Brasília-DF,%20Brasil-success?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
+  <a href="mailto:contato@gustavodias.dev"><img src="https://img.shields.io/badge/E--mail-contato@gustavodias.dev-555?style=flat-square&logo=maildotru&logoColor=white" alt="E-mail"></a>
+  <img src="https://img.shields.io/badge/Brasília-DF,%20Brasil-555?style=flat-square" alt="Localização">
 </p>
 
 ---
 
-## Sobre mim 🌟
+## Sobre
 
 Há mais de 10 anos desenvolvo software para grandes organizações dos setores **financeiro, governamental e de seguros**, atuando de ponta a ponta — do back-end ao front-end, passando pela esteira de CI/CD, cloud e a operação em produção.
 
-Vejo o desenvolvimento de software como um **ofício artesanal** 🎨: cada linha de código pode transformar processos e vidas. Por isso valorizo a atenção aos detalhes, a melhoria contínua e o código bem escrito — e busco evoluir constantemente, aprendendo e aplicando novas técnicas para gerar resultados melhores.
+Vejo o desenvolvimento de software como um **ofício artesanal**: cada linha de código pode transformar processos e vidas. Por isso valorizo a atenção aos detalhes, a melhoria contínua e o código bem escrito — e busco evoluir constantemente, aprendendo e aplicando novas técnicas para gerar resultados melhores.
 
-Observar o crescimento de pessoas e soluções ao meu redor me traz profunda satisfação 😊 e reforça meu propósito: **contribuir para tornar o mundo um lugar melhor** 🌍, seja com um código bem escrito ou uma saudação cordial. Acredito que grandes conquistas nascem da colaboração e do compromisso com a excelência.
+Observar o crescimento de pessoas e soluções ao meu redor me traz profunda satisfação e reforça meu propósito: **contribuir para tornar o mundo um lugar melhor**, seja com um código bem escrito ou uma saudação cordial.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Linguagens**
 
@@ -64,7 +64,7 @@ Observar o crescimento de pessoas e soluções ao meu redor me traz profunda sat
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavodiasdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="Estatísticas do GitHub">
@@ -73,9 +73,7 @@ Observar o crescimento de pessoas e soluções ao meu redor me traz profunda sat
 
 ---
 
-## 📫 Vamos nos conectar!
+## Contato
 
-- 🌐 Currículo: **[gustavodias.dev](https://gustavodias.dev)**
-- ✉️ E-mail: **contato@gustavodias.dev**
-
-Sinta-se à vontade para explorar meus projetos e enviar uma mensagem. Estou sempre aberto a trocar ideias e a explorar novas oportunidades. 🤝
+- Currículo — [gustavodias.dev](https://gustavodias.dev)
+- E-mail — contato@gustavodias.dev
