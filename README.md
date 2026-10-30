@@ -1,40 +1,43 @@
-<h1 align="center">Gustavo Dias</h1>
+# Gustavo Dias
 
-<p align="center">
-  Software Engineer · Full Stack — back-end, front-end e toda a esteira.
-</p>
+**Software Engineer · Full Stack · Java/Spring**
 
-<p align="center">
-  <a href="https://gustavodias.dev"><img src="https://img.shields.io/badge/Currículo-gustavodias.dev-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Currículo"></a>
-  <a href="mailto:contato@gustavodias.dev"><img src="https://img.shields.io/badge/E--mail-contato@gustavodias.dev-555?style=flat-square&logo=maildotru&logoColor=white" alt="E-mail"></a>
-  <img src="https://img.shields.io/badge/Brasília-DF,%20Brasil-555?style=flat-square" alt="Localização">
-</p>
+Mais de 10 anos construindo sistemas críticos para os setores **financeiro, governamental e de seguros** — e, no open source, ferramentas para agentes de IA (MCP, OpenCode).
+
+[![Currículo](https://img.shields.io/badge/Currículo-gustavodias.dev-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://gustavodias.dev)
+[![E-mail](https://img.shields.io/badge/E--mail-contato@gustavodias.dev-555?style=flat-square&logo=maildotru&logoColor=white)](mailto:contato@gustavodias.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavodiasdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodiasdev)
 
 ---
 
-## Sobre
+## O que eu faço
 
-Há mais de 10 anos desenvolvo software para grandes organizações dos setores **financeiro, governamental e de seguros**, atuando de ponta a ponta — do back-end ao front-end, passando pela esteira de CI/CD, cloud e a operação em produção.
+- **Back-end Java/Spring em produção** — APIs, processamento batch e integrações em ambientes regulados, incluindo mensageria do SPB (TED).
+- **Ponta a ponta** — do banco de dados ao front-end em Angular e Vue, passando pela esteira de CI/CD e pela operação em cloud.
+- **Experiência** — desenvolvedor full-stack e tech lead em projetos para DETRAN-RS, ANCINE, Ministério do Planejamento, Banco do Brasil, Itaú e BRB.
 
-Vejo o desenvolvimento de software como um **ofício artesanal**: cada linha de código pode transformar processos e vidas. Por isso valorizo a atenção aos detalhes, a melhoria contínua e o código bem escrito — e busco evoluir constantemente, aprendendo e aplicando novas técnicas para gerar resultados melhores.
+## Open source
 
-Observar o crescimento de pessoas e soluções ao meu redor me traz profunda satisfação e reforça meu propósito: **contribuir para tornar o mundo um lugar melhor**, seja com um código bem escrito ou uma saudação cordial.
+| Projeto | O que faz |
+| --- | --- |
+| [**opencode-qwencode-auth**](https://github.com/gustavodiasdev/opencode-qwencode-auth) <br> ![stars](https://img.shields.io/github/stars/gustavodiasdev/opencode-qwencode-auth?style=flat-square) | Plugin OAuth para o OpenCode CLI: use os modelos Qwen3-Coder com sua conta qwen.ai (2.000 req/dia grátis). |
+| [**mcpx-cli**](https://github.com/gustavodiasdev/mcpx-cli) <br> ![stars](https://img.shields.io/github/stars/gustavodiasdev/mcpx-cli?style=flat-square) | CLI interativa para configurar servidores MCP em vários provedores de IA. |
 
----
+<!-- Contribuições: se você teve PRs aceitos em projetos de terceiros, liste aqui com o link do PR e remova o comentário.
+
+**Contribuições**
+- [anomalyco/opencode](https://github.com/anomalyco/opencode/pulls?q=author%3Agustavodiasdev) — o que o PR fez
+- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol/pulls?q=author%3Agustavodiasdev) — o que o PR fez
+-->
 
 ## Stack
 
-- **Linguagens** — Java (8 · 11 · 17 · 21) · Kotlin · JavaScript/TypeScript · Python
-- **Back-end** — Spring (Boot, Data, Security, MVC, Batch, Cloud) · JEE · Quarkus · Node.js (Express, NestJS) · FastAPI
-- **Front-end** — Angular · React · Vue.js (Vuex, Pinia, Nuxt) · HTML · CSS
-- **Cloud** — AWS (ECS, EKS, Lambda, RDS, S3, DynamoDB) · Azure (AKS, AD, DevOps) · OCI
-- **DevOps / Infra** — Docker · Kubernetes (OpenShift, Rancher) · CI/CD (GitHub Actions, GitLab CI, Jenkins, Azure DevOps)
-- **Dados** — PostgreSQL · MySQL · Oracle · MongoDB · DynamoDB
-- **Qualidade** — JUnit · Mockito · Maven · Gradle
+**No dia a dia**
+Java 17/21 · Spring (Boot, Data, Security, Batch) · JEE · TypeScript · Angular · Vue · PostgreSQL · Oracle · DynamoDB · AWS (ECS, EKS) · OpenShift · Docker · GitLab CI · Azure DevOps · GitHub Actions · JUnit · Mockito · Maven/Gradle
+
+**Também trabalho com**
+Kotlin · Python · Quarkus · Node.js (NestJS, Express) · FastAPI · React · Nuxt · Azure (AKS) · OCI · MySQL · MongoDB · Jenkins · Rancher
 
 ---
 
-## Contato
-
-- Currículo — [gustavodias.dev](https://gustavodias.dev)
-- E-mail — contato@gustavodias.dev
+Software, para mim, é ofício: atenção aos detalhes, melhoria contínua e código que o próximo dev consegue manter.
